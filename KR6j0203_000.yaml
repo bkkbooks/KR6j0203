@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0203/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說出生無邊門陀羅尼儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1010.xml
+    old_id: T19n1010
+hash: sha256:51d0b58ea2077f573c7c20bc90ea548087aa9a0e2486dc403dae538dde7419ea

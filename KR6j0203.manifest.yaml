@@ -1,0 +1,45 @@
+canonical_identifier: bkk:krp/KR6j0203/v1
+canonical_location: https://kanripo.org/bkk/KR6j0203/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說出生無邊門陀羅尼儀軌
+  identifiers:
+    alt_id:
+    - T19n1010
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1010.xml
+    old_id: T19n1010
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0203_000.yaml, hash: 'sha256:51d0b58ea2077f573c7c20bc90ea548087aa9a0e2486dc403dae538dde7419ea'}
+  - {seq: 1, filename: KR6j0203_001.yaml, hash: 'sha256:d5ba963f43d86d2d72bf3fba2b270ae937c8fa7556b287d4f0886a8c8d8bf803'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0203_001.markers.yaml, hash: 'sha256:a595f36c30ee3b65fd8cde5c56245c177a30d93963222186c319f26a581130e8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0203_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 470
+  label: 佛說出生無邊門陀羅尼儀軌
+  type: juan
+  level: 1
+hash: sha256:44d3638ad5aeaecb10a6e155fc381974ea8ec4e000151a445be109010a164a65
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
